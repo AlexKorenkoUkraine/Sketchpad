@@ -9,4 +9,6 @@
     text-align: center;
     margin-left:1em;
   }
- 
+  .div_properties:hover {
+    background-color: red;
+  }
